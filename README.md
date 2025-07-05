@@ -1,3 +1,5 @@
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue)](https://render.com)
+
 # Flask Deployment Template
 
 This is a lightweight Flask backend template suitable for deployment to platforms like Render. It includes:
@@ -30,5 +32,22 @@ To deploy on [Render](https://render.com):
 ## Notes
 
 This template is based on a production setup used in a real investigative tool (Ember Relay) and follows best practices for deploying small, secure Flask APIs.
+
+---
+
+## Why I Made This
+
+This template is based on real infrastructure I built and deployed for **Ember Relay**, an AI-powered investigative tool. I created this public version to help other devs — and to showcase my systems experience to potential clients.
+
+If you're looking for someone who can spin up reliable backends, troubleshoot broken deployments, or automate operational chaos into calm, feel free to reach out.
+
+## License
+
+MIT
+
+## Author
+
+Built and maintained by [@wolvesandfirestudio](https://github.com/wolvesandfirestudio)
+
 
 ---
