@@ -1,6 +1,12 @@
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue)](https://render.com)
-
 # Flask Deployment Template
+
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue)](https://render.com)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
+![Flask](https://img.shields.io/badge/Framework-Flask-lightgrey)
+![Made With](https://img.shields.io/badge/Made%20With-Gunicorn%20%7C%20CORS%20%7C%20Render-important)
+
 
 This is a lightweight Flask backend template suitable for deployment to platforms like Render. It includes:
 
